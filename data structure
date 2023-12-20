@@ -23,3 +23,26 @@ int main()
     }
     return 0;
 }
+
+
+//fibonacii series without recursion
+
+#include <stdio.h>
+int main() 
+{
+    int n, x = 0, y = 1, next;
+  printf("Enter the number of terms in the Fibonacci series: ");
+    scanf("%d", &n);
+
+    printf("Fibonacci Series:\n");
+
+    for (int i = 0; i < n; ++i) 
+	{
+        printf("%d ", x);
+        next = x + y;
+        x = y;
+        y = next;
+    }
+
+    return 0;
+}
