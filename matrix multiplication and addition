@@ -1,0 +1,40 @@
+#include<stdio.h>
+void add(int arr1[],int arr2[],int result[],int n)
+{
+	for(int i=0;i<=n;i++)
+	{
+	 	result[i]=arr1[i]+arr2[i];
+	}
+}
+void mul(int arr1[],int arr2[],int result[],int n)
+{
+	for(int i=0;i<=n;i++)
+	{
+	 	result[i]=arr1[i]*arr2[i];
+	}
+}
+int main()
+{
+	int arr1[]={5,2,5,4};
+	int arr2[]={7,6,9,8};
+	int n=sizeof(arr1)/sizeof(arr1[0]);
+	
+	int sumresult[n],productresult[n];
+	
+	add(arr1,arr2,sumresult,n);
+	mul(arr1,arr2,productresult,n);
+	
+	printf("sum of arrays:");
+	for(int i=0;i<n;i++)
+	{
+		printf(" %d ",sumresult[i]);
+	}
+		printf("sum of product:");
+	for(int i=0;i<n;i++)
+	{
+		printf(" %d ",productresult[i]);
+	}
+	
+}
+
+"C:\Users\jithu\Pictures\Screenshots\jeeva.png"
