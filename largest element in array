@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() {
+  int array[] = {5, 2, 9, 1, 7};
+   int size = sizeof(array) / sizeof(array[0]);
+ int max = array[0];
+  for (int i = 1; i < size; i++) {
+        if (array[i] > max) {
+            max = array[i];
+        }
+    }
+   printf("The largest element in the array is: %d\n", max);
+   return 0;
+}
+"C:\Users\jithu\Pictures\Screenshots\prog.png"
