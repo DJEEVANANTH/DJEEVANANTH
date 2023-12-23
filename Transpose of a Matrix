@@ -1,7 +1,7 @@
 //Transpose of a Matrix
 #include<stdio.h>
 int main() {
-    printf("Name: Jeevitha\nReg no: 192324020\n");
+    printf("Name: Jeeva\nReg no: 192321086\n");
     int r, c, i, j;
     printf("Enter the row and column of the Matrice:");
     scanf("%d %d", &r, &c);
