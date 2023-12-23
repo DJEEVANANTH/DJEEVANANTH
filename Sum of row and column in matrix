@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Name: Jeevitha\nReg No:192324020\n");
+    printf("Name: Jeeva\nReg No:192321086\n");
     int r,c;
     printf("Enter the no. of rows and Columns of the Matrix:");
     scanf("%d %d",&r,&c);
