@@ -74,3 +74,9 @@ Middle element:- floor((size_of_stack+1)/2) (1-based indexing) from bottom of th
 Search
 Sort
 Find Max and Min
+
+
+Day 6
+1. Write a function that takes a string containing parentheses , square brackets  and curly braces "  ( { [ ] } " and determines if the symbols are balanced. 
+2.  Write a function to evaluate a given postfix expression. The expression is "44 2 / 6 -"
+3. Write a function to convert an infix expression to postfix notation. The infix expression is " "(a + b) * c + d "
