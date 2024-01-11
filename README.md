@@ -80,3 +80,71 @@ Day 6
 1. Write a function that takes a string containing parentheses , square brackets  and curly braces "  ( { [ ] } " and determines if the symbols are balanced. 
 2.  Write a function to evaluate a given postfix expression. The expression is "44 2 / 6 -"
 3. Write a function to convert an infix expression to postfix notation. The infix expression is " "(a + b) * c + d "
+
+
+Day 7
+1.Implement Queue using array with following operations
+Enqueue( )
+Dequeue( )
+isEmpty( )
+isFull( )
+Display( )
+front( ) orPeek( )
+rear( )
+2 .Implement Queue using Linked List with following operations
+Enqueue( )
+Dequeue( )
+Display( )
+Front( )
+Rear( )
+3. Implement CircularQueue using array with following operations
+Enqueue( )
+Dequeue( )
+isEmpty( )
+isFull( )
+Display( )
+front( ) orPeek( )
+rear( )
+4 .Implement CircularQueue using Linked List with following operations
+Enqueue( )
+Dequeue( )
+Display( )
+Front( )
+Rear( )
+5. Implement Stack using two queues
+6. Implement Queue using two Stacks
+
+Day 8:
+1.Implement Binary tree
+2. Implement Binary Search Tree and perform Insertion and Deletion
+3. Create Binary Search Tree with Tree Traversal (Inorder, Preorder, Postorder and Level order)
+
+Day 9
+Implement a C Program for AVL tree and perform Insertion and Deletion of Nodes
+
+
+Day 10
+1. Implement a C Program for Red Black tree and perform Insertion and Deletion of Nodes
+2. Implement a C Program for Splay tree tree and perform Insertion and Deletion of Nodes
+
+
+Day 11
+1. Implement a C Program for B Tree and perform Insertion of Nodes
+2. Implement a C Program for TRIE Tree and perform Insertion  of Nodes
+
+   Day 12
+1. Implement a C Program to perform Hashing with all collision resolving techniques
+2. Implement a C Program for Min Heap and Max Heap and perform Insertion  of Nodes
+3.  Implement a C Program to perform Heap sort both ascending and Descending order
+
+Day 13
+1. Implement a C Program to perform Merge Sort
+2. Implement a C Program to perform Insertion Sort
+3. Implement a C Program to perform Radix Sort
+4. Implement a C Program to perform Bubble Sort
+5. Implement a C Program to perform Shell Sort
+
+   Day 14
+1. Implement a C Program to perform Quick Sort
+2. Implement a C Program to perform Selection Sort
+
